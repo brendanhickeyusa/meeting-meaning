@@ -1,0 +1,16 @@
+node_modules/
+Windows/
+dist/
+release/
+*.zip
+*.log
+.env
+.env.*
+!.env.example
+settings.json
+glossary.json
+meetings/
+library/
+runtime/
+smoke*.json
+smoke*.png
